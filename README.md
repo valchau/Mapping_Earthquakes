@@ -6,7 +6,7 @@ module 14
 ### Purpose
 The purpose of this project is to visually show the differences between the magnitudes of earthquakes all over the world for the last seven days, allowing a user to click on an earthquake (represented as circles whose size reflects the magnitude of each earthquake). When a user clicks on an earthquake, the website presents the location and magnitude: 
 
-[location and magnitude example]("Earthquake_Challenge/one_earthquak.PNG")
+[location and magnitude example](Earthquake_Challenge/one_earthquak.PNG)
 
 ### Tasks
 To complete this project, I used a URL for GeoJSON earthquake data from the USGS website and retrieved geographical coordinates and the magnitudes of earthquakes for the last seven days. Then I added the data to a map to allow visualization.
