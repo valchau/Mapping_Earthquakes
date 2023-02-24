@@ -16,3 +16,6 @@ My approach is to use the JavaScript and the D3.js library to retrieve the coord
 
 [location and magnitude in Californa](Earthquake_Challenge/california_earthquakes.PNG)
 
+Here is what my earthquake world looks like:
+[location and magnitude worldwide](Earthquake_Challenge/tectonicplates_and_earthquakes.PNG)
+
