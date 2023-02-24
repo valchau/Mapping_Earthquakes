@@ -14,5 +14,5 @@ To complete this project, I used a URL for GeoJSON earthquake data from the USGS
 ### Approach
 My approach is to use the JavaScript and the D3.js library to retrieve the coordinates and magnitudes of the earthquakes from the GeoJSON data. I also looked at the layout of the GEOJSON data to better understand what is going on and how GEO data is stored. I used the Leaflet library to plot the data on a Mapbox map through an API request (that I finally get the API key for), and it created interactivity for the earthquake data so a user can click on an earthquake and see its magnitide and location. I notice that in San Diego we have a smaller earthquakes with magnitudes between 1 and 2 on the Richter scale, but in other parts of the world such as Central and South America, the earthquakes are much larger. 
 
-[location and magnitude in Californa](Earthquake_Challenge/Earthquake_Challenge/california_earthquakes.PNG)
+[location and magnitude in Californa](Earthquake_Challenge/california_earthquakes.PNG)
 
